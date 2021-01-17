@@ -7,6 +7,6 @@
 | C     | `troc-17-xor`         | Xmas Xor                | Xor Natal       |
 | D     | `troc-17-permutation` | Increasing Irregularity | Keanehan Menaik |
 | E     | `troc-17-arrays`      | Aesthetic Array         | Larik Estetis   |
-| E     | `troc-17-mask-plan`   | Miracle Masks           | Masker Ajaib    |
-| F     | `troc-17-segments`    | Santa Segments          | Segmen Santa    |
-| G     | `troc-17-guitar`      | Guitar Gift             | Hadiah Gitar    |
+| F     | `troc-17-mask-plan`   | Miracle Masks           | Masker Ajaib    |
+| G     | `troc-17-segments`    | Santa Segments          | Segmen Santa    |
+| H     | `troc-17-guitar`      | Guitar Gift             | Hadiah Gitar    |
