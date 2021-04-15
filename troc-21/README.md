@@ -9,3 +9,5 @@
 | E     | `troc-21-bread`    | Place the Bread   | Tempatkan Roti Ini |
 | F     | `troc-21-lamps`    | Electrical Task   | Tugas Kelistrikan  |
 | G     | `troc-21-flight`   | Flight Years      | Tahun Terbang      |
+
+`troc-21-flight` is broken down into two parts because of large file size.
